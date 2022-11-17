@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    padding: 2% 0%;
+    text-align: left !important;
+}
+
+.centrar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10%;
+}
+
+.card{
+    width: 18rem;
+}
+
+.card-link{
+    font-size: small;
+    font-weight: 900;
+}
+
+.card-img-top{
+    width: 18rem;
+    height: 18rem;
+    object-fit: cover;
+}
+
+.footer{
+    margin-top: 5%;
+}
